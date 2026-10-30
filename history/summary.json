@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Website",
+    "url": "https://mitchind.ch/",
+    "icon": "https://mitchind.ch/favicon-32.png",
+    "slug": "website",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 847,
+    "timeDay": 847,
+    "timeWeek": 847,
+    "timeMonth": 847,
+    "timeYear": 847,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "Sign-in",
+    "url": "https://skuxvafzccztuxcinhvz.supabase.co/auth/v1/health",
+    "icon": "https://icons.duckduckgo.com/ip3/skuxvafzccztuxcinhvz.supabase.co.ico",
+    "slug": "signin",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 629,
+    "timeDay": 629,
+    "timeWeek": 629,
+    "timeMonth": 629,
+    "timeYear": 629,
+    "dailyMinutesDown": {}
+  }
+]
