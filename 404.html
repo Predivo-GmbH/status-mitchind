@@ -1,0 +1,18 @@
+<!DOCTYPE html> <html lang=en> <head> <meta charset=utf-8> <meta content="width=device-width,initial-scale=1" name=viewport> <meta content=#333333 name=theme-color> <base href=/status-mitchind/ > <link href=manifest.json rel=manifest crossorigin=use-credentials> <script>__SAPPER__={baseUrl:"/status-mitchind",preloaded:[void 0]};if('serviceWorker' in navigator)navigator.serviceWorker.register('/status-mitchind/service-worker.js');(function(){try{eval("async function x(){}");var main="/status-mitchind/client/client.82467d00.js"}catch(e){main="/status-mitchind/client/legacy/client.947ad7df.js"};var s=document.createElement("script");try{new Function("if(0)import('')")();s.src=main;s.type="module";s.crossOrigin="use-credentials";}catch(e){s.src="/status-mitchind/client/shimport@2.0.5.js";s.setAttribute("data-main",main);}document.head.appendChild(s);}());</script> <link href=client/client-31a52aa5.css rel=stylesheet><link href=client/createOctokit-a85f76c7.css rel=stylesheet><link href=client/index-b0b6455a.css rel=stylesheet> <meta content="0; url=https://status.mitchind.ch" http-equiv=refresh><link href=https://status.mitchind.ch rel=canonical><link href=https://Predivo-GmbH.github.io/status-mitchind/themes/light.css rel=stylesheet><link href=https://Predivo-GmbH.github.io/status-mitchind/global.css rel=stylesheet><link href=https://mitchind.ch/favicon.svg rel=icon type=image/svg><link href=https://mitchind.ch/favicon-32.png rel=icon type=image/png> <link href=/status-mitchind/client/client.82467d00.js rel=modulepreload as=script crossorigin=use-credentials><link href=/status-mitchind/client/client-31a52aa5.css rel=preload as=style><link href=/status-mitchind/client/index.be41a58c.js rel=modulepreload as=script crossorigin=use-credentials><link href=/status-mitchind/client/createOctokit.a5b5e668.js rel=modulepreload as=script crossorigin=use-credentials><link href=/status-mitchind/client/inject_styles.803b7e80.js rel=modulepreload as=script crossorigin=use-credentials><link href=/status-mitchind/client/createOctokit-a85f76c7.css rel=preload as=style><link href=/status-mitchind/client/index-b0b6455a.css rel=preload as=style></head> <body> <div id=sapper> <nav class=svelte-a08hsz><div class="svelte-a08hsz container"><div><a href=https://Predivo-GmbH.github.io/status-mitchind class="svelte-a08hsz logo"><img alt="" class=svelte-a08hsz src=https://mitchind.ch/favicon.svg> <div>mitchind Status</div></a></div> <ul class=svelte-a08hsz><li><a href=/ class=svelte-a08hsz target=_self>Status</a> <li><a href=https://mitchind.ch class=svelte-a08hsz target=_self>mitchind.ch</a> <li><a href=https://status.mitchind.ch class=svelte-a08hsz target=_self>Statusseite</a> </li> </ul></div> </nav> <main class=container></main> <footer class=svelte-jbr799><p>Diese Seite ist <a href=https://github.com/Predivo-GmbH/status-mitchind>Open Source</a> und läuft mit <a href=https://upptime.js.org>Upptime</a>. © Predivo GmbH, mitchind.ch</p> </footer></div> <script> try {
+        if (typeof window !== "undefined" && window.navigator && navigator.serviceWorker) {
+          navigator.serviceWorker.getRegistrations().then(function (registrations) {
+            for (let registration of registrations) {
+              registration.unregister();
+            }
+          });
+        }
+        if (typeof window !== "undefined" && "caches" in window) {
+          caches.keys().then(function (keyList) {
+            return Promise.all(
+              keyList.map(function (key) {
+                return caches.delete(key);
+              })
+            );
+          });
+        }
+      } catch (error) {} </script> 
