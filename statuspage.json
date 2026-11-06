@@ -1,5 +1,8 @@
 {
-  "page_id": "",
-  "public_url": "",
-  "components": {}
+  "page_id": "7q6y7l5xpwbb",
+  "public_url": "https://mitchind.statuspage.io",
+  "components": {
+    "website": "2schq4zxgkzj",
+    "signin": "2z89l2gbwb5z"
+  }
 }
