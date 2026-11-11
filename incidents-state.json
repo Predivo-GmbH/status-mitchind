@@ -1,14 +1,14 @@
 {
   "website": {
     "down": 0,
-    "up": 678,
+    "up": 679,
     "component": "operational",
     "incident": null,
     "lastResolved": null
   },
   "signin": {
     "down": 0,
-    "up": 711,
+    "up": 712,
     "component": "operational",
     "incident": null,
     "lastResolved": null
