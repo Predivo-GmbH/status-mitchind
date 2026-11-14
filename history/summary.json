@@ -4,7 +4,7 @@
     "url": "https://mitchind.ch/",
     "icon": "https://mitchind.ch/favicon-32.png",
     "slug": "website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.88%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.81%",
@@ -17,7 +17,8 @@
     "timeYear": 914,
     "dailyMinutesDown": {
       "2026-11-06": 6,
-      "2026-11-10": 19
+      "2026-11-10": 19,
+      "2026-11-14": 0
     }
   },
   {
