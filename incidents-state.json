@@ -1,20 +1,20 @@
 {
   "website": {
     "down": 0,
-    "up": 144,
+    "up": 145,
     "component": "operational",
     "incident": null,
     "lastResolved": null
   },
   "signin": {
     "down": 0,
-    "up": 1,
+    "up": 2,
     "component": "operational",
     "incident": {
       "id": "v5cz83dn3m5h",
       "status": "monitoring",
       "kind": "down",
-      "lastPostAt": "2026-11-19T03:34:23.129Z"
+      "lastPostAt": "2026-11-19T03:34:23.313Z"
     },
     "lastResolved": null
   }
