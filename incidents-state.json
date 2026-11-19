@@ -1,16 +1,21 @@
 {
   "website": {
     "down": 0,
-    "up": 142,
+    "up": 143,
     "component": "operational",
     "incident": null,
     "lastResolved": null
   },
   "signin": {
-    "down": 1,
+    "down": 2,
     "up": 0,
-    "component": "operational",
-    "incident": null,
+    "component": "major_outage",
+    "incident": {
+      "id": "v5cz83dn3m5h",
+      "status": "investigating",
+      "kind": "down",
+      "lastPostAt": "2026-11-19T03:29:57.024Z"
+    },
     "lastResolved": null
   }
 }
