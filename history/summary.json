@@ -28,17 +28,19 @@
     "url": "https://skuxvafzccztuxcinhvz.supabase.co/auth/v1/health",
     "icon": "https://icons.duckduckgo.com/ip3/skuxvafzccztuxcinhvz.supabase.co.ico",
     "slug": "signin",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 654,
-    "timeDay": 645,
-    "timeWeek": 581,
-    "timeMonth": 654,
-    "timeYear": 654,
-    "dailyMinutesDown": {}
+    "time": 865,
+    "timeDay": 2864,
+    "timeWeek": 1224,
+    "timeMonth": 865,
+    "timeYear": 865,
+    "dailyMinutesDown": {
+      "2026-11-19": 0
+    }
   }
 ]
