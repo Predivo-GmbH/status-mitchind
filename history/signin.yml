@@ -1,7 +1,7 @@
 url: https://skuxvafzccztuxcinhvz.supabase.co/auth/v1/health
-status: up
-code: 200
-responseTime: 645
-lastUpdated: 2026-11-18T23:07:51.408Z
+status: down
+code: 503
+responseTime: 5082
+lastUpdated: 2026-11-19T03:26:29.793Z
 startTime: 2026-10-30T18:36:27.846Z
 generator: Upptime <https://github.com/upptime/upptime>
