@@ -1,19 +1,17 @@
 {
   "website": {
     "down": 0,
-    "up": 2,
+    "up": 3,
     "component": "operational",
-    "incident": {
+    "incident": null,
+    "lastResolved": {
       "id": "799zd2f8mh6w",
-      "status": "monitoring",
-      "kind": "down",
-      "lastPostAt": "2026-11-24T22:21:12.731Z"
-    },
-    "lastResolved": null
+      "at": "2026-11-24T22:27:25.538Z"
+    }
   },
   "signin": {
     "down": 0,
-    "up": 1113,
+    "up": 1114,
     "component": "operational",
     "incident": null,
     "lastResolved": {
