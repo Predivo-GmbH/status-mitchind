@@ -1,7 +1,7 @@
 {
   "website": {
     "down": 0,
-    "up": 143,
+    "up": 144,
     "component": "operational",
     "incident": null,
     "lastResolved": {
@@ -11,7 +11,7 @@
   },
   "signin": {
     "down": 0,
-    "up": 1542,
+    "up": 1543,
     "component": "operational",
     "incident": null,
     "lastResolved": {
